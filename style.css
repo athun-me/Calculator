@@ -1,0 +1,37 @@
+.calc{
+    width: 281px;
+    height: 285px;
+    background: grey;
+    margin-left: 550px;
+    border-radius: 33px;
+}
+#screen{
+    width: 240px;
+    margin-left: 16px;
+    margin-top: 20px;
+    height: 24px;
+    pointer-events: none;
+    border-radius: 50px;
+    border: solid;
+    border-color: darkgoldenrod;
+}
+.btn{
+    width: 45px;
+    height: 25px;
+    border-radius: 9px;
+    border: solid;
+    border-color: burlywood;
+    margin-left: 13px;
+    margin-top: 19px;
+    font-weight: bold;
+    color: midnightblue;
+    font-style: revert;
+}
+.button{
+    margin-left: 13px;
+    margin-top: -2px;
+}
+    
+.btn:hover{
+    background-color:#696969;
+}
